@@ -15,7 +15,7 @@ namespace Maze
         */
         static string defaultMapFile = "Hound Maze(tsv).txt";
         static int[] defaultStartPoint = { 54, 77 };
-        static int[] defaultEndPoint = { 12, 20 };
+        static int[] defaultEndPoint = { 12, 21 };
 
         static void Main(string[] args)
         {
