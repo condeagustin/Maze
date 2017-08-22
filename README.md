@@ -12,7 +12,7 @@ This is a C# application coded in Visual Studio 2017 that takes three parameters
 |tab|tab|tab|tab|tab|tab|
 |tab|tab|tab|tab|tab|tab|
 |tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|F|
+|tab|tab|tab|tab|tab|F tab|
 
 
 - Start point
