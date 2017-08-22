@@ -24,8 +24,8 @@ In order to provide such input you can do it in any of these 2 ways:
 
 - Go to Maze/Maze/bin/Release/, edit and run the file Program.bat like this:
 
-...start Maze.exe "Sample1(tsv).txt" 25 0 13 11
+⋅⋅⋅start Maze.exe "Sample1(tsv).txt" 25 0 13 11
 
-...In this case, 25 and 0 are the X and Y of start point; and 13 and 11 are the X and Y of end point respectively
+⋅⋅⋅In this case, 25 and 0 are the X and Y of start point; and 13 and 11 are the X and Y of end point respectively
 
 
