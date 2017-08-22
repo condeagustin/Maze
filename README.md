@@ -6,13 +6,13 @@ This is a C# console application coded in Visual Studio 2017 that takes three pa
 
 - Maze filename. The file must be located in the same folder of Maze.exe (e.g. Maze/Maze/bin/Release/). It is a .txt file in format tsv (tab separated) and it has an offset of 5 lines and 5 tabs. Each "F" represents a walk space, and each "" (blank character) is a wall. The position (0, 0) would be the F shown in the 6th line and after the 5th tab in this example:
 
-|tab|tab|tab|tab|tab|tab|
-| ------------- |:-------------:| -----:|---:|---:|---:|
-|tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|**F** tab|
+   |tab|tab|tab|tab|tab|tab|
+   | ------------- |:-------------:| -----:|---:|---:|---:|
+   |tab|tab|tab|tab|tab|tab|
+   |tab|tab|tab|tab|tab|tab|
+   |tab|tab|tab|tab|tab|tab|
+   |tab|tab|tab|tab|tab|tab|
+   |tab|tab|tab|tab|tab|**F** tab|
 
 - Start point. Int array of 2 elements {X,Y}
 
