@@ -1,0 +1,7 @@
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\bin\Release\Maze.exe.config
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\bin\Release\Maze.exe
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\bin\Release\Maze.pdb
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\obj\Release\Maze.csprojResolveAssemblyReference.cache
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\obj\Release\Maze.csproj.CoreCompileInputs.cache
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\obj\Release\Maze.exe
+C:\Users\aconde\Dropbox\Development\C#\Maze\Maze\obj\Release\Maze.pdb

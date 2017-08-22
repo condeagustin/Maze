@@ -1,0 +1,37 @@
+
+
+
+
+
+					F						F	F	F				F	F	O	O	O	O	O	O	O	O	O	O	O	$
+					F						F	F	F				F		O		F									
+					F						F	F	F				F		O		F									
+					F						F	F	F						O											
+					F	F	F	F	F		F	F	F						O	O	O	O	O	O	O					
+							F		F		F	F	F						F						O					
+					F	F	F		F		F	F	F	F	F	F	F		F	F	F	F	F		O					
+					F				F		F	F	F				F								O					
+					F		F	F	F		F	F	F		F	F	F	F	F	F	O	O	O	O	O					
+					F		F				F	F	F		F	F	F	F	F	O	F				F					
+					F		F	F	F		F	F	F	F	F	F	F	F	O	F	F		F	F	F					
+					F		F	F	F						F	F	F	Ø	F	F	F		F							
+					F		F	F	F						F	F	F	F	F	F	F		F							
+					F		F	F	F						F	F	F	F	F	F	F		F							
+					F		F	F	F		F	F	F	F	F	F	F	F	F	F	F	F	F							
+					F		F	F	F		F								F		F									
+					F		F	F	F	F	F		F	F	F	F	F	F	F		F		F	F	F					
+					F						F		F	F	F	F	F	F	F		F				F					
+					F		F	F	F	F	F		F	F	F	F	F	F	F		F	F	F		F					
+					F								F	F	F	F	F	F	F				F		F					
+					F	F	F	F	F				F	F	F	F	F	F	F				F	F	F					
+					F				F				F		F				F						F					
+					F	F	F		F				F	F	F				F	F	F	F	F		F					
+							F		F				F						F						F					
+					F		F		F				F						F		F	F	F	F	F					
+					F		F		F				F						F		F									
+					F	F	F		F	F	F	F	F						F	F	F	F	F	F	F					
+																														
+																														
+																														
+																														
+																														
