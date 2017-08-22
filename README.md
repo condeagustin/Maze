@@ -20,9 +20,9 @@ This is a C# application coded in Visual Studio 2017 that takes three parameters
 
 In order to provide such input you can do it in any of these 2 ways:
 
-- Go to Maze/Maze/Program.cs edit the attributes defaultMapFile, defaultStartPoint, defaultEndPoint and run the program from VS 2017, or...
+1. Go to Maze/Maze/Program.cs edit the attributes defaultMapFile, defaultStartPoint, defaultEndPoint and run the program from VS 2017, or...
 
-- Go to Maze/Maze/bin/Release/, edit and run the file Program.bat like this:
+2. Go to Maze/Maze/bin/Release/, edit and run the file Program.bat like this:
 
 ⋅⋅⋅start Maze.exe "Sample1(tsv).txt" 25 0 13 11
 
