@@ -12,7 +12,7 @@ This is a C# console application coded in Visual Studio 2017 that takes three pa
 |tab|tab|tab|tab|tab|tab|
 |tab|tab|tab|tab|tab|tab|
 |tab|tab|tab|tab|tab|tab|
-|tab|tab|tab|tab|tab|F tab|
+|tab|tab|tab|tab|tab|**F** tab|
 
 - Start point. Int array of 2 elements {X,Y}
 
@@ -27,5 +27,7 @@ In order to provide such input you can do it in any of these 2 ways:
    start Maze.exe "Sample1(tsv).txt" 25 0 13 11
 
    In this case, 25 and 0 are the X and Y of start point; and 13 and 11 are the X and Y of end point respectively
+   
+After running the program, it will show the set of points that make part of the shortest path computed and it will also generate a file with the suffix "\_Solved" that contains the same contents of the input maze file but it shows the path found with different characters than "F"
 
 
