@@ -6,11 +6,11 @@ This is a C# application coded in Visual Studio 2017 that takes three parameters
 
 - Maze filename. This file must be located in the same folder of Maze.exe (e.g. Maze/Maze/bin/Release/) and it is a .txt file in format tsv (tab separated) and it has an offset of 5 lines and 5 tabs. Each "F" is a walk space, and each "" (blank character) means is a wall. The position (0, 0) is would be the F in this example:
 
-| | | | | |
-|--| --| | | |
-| | | | | |
-| | | | | |
-| | | | | |F
+| | | |
+| ------------- |:-------------:| -----:|
+| | | |
+| | | |
+| | | |
 
 
 - Start point
